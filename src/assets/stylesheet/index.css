@@ -5,3 +5,17 @@ body {
     color: #fff;
     background-color: #000;
 }
+
+h5 {
+    font-size: 16px;
+    height: 25px;
+    margin: 20px 0px;
+}
+
+p {
+    color: rgb(146, 168, 0);
+}
+
+a {
+    color: rgb(131, 148, 150);
+}

@@ -1,0 +1,24 @@
+{
+  "name": "haiweilian.github.io",
+  "version": "1.0.0",
+  "description": "个人主页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiweilian/haiweilian.github.io.git"
+  },
+  "author": "haiweilian@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haiweilian/haiweilian.github.io/issues"
+  },
+  "homepage": "https://github.com/haiweilian/haiweilian.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "typed.js": "^2.0.11"
+  }
+}
