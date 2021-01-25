@@ -1,0 +1,35 @@
+body {
+    font-family: Monaco, Consolas, Menlo, Courier New, monospace;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #000;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+
+footer a {
+    color: rgb(131, 148, 150);
+}
+
+.link-item {
+    color: rgb(146, 168, 0);
+}
+
+.link-item span {
+    display: inline-block;
+    width: 100px;
+}
+
+.link-item a {
+    color: rgb(131, 148, 150);
+}
